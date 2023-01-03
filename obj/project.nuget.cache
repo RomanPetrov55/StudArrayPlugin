@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "U7UUnCjOV0cQ8Co83ympUc7iT+WTnugKs+2VHmcaOBIIFBXBlo3RLE43+uAMNVsIoDaRWBd7lskfcvxfSPFO+A==",
+  "success": true,
+  "projectFilePath": "D:\\YandexDisk\\Работа\\!Автоматизация\\Tekla\\C#\\StudArrayPlugin\\StudArrayPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\tekla.structures\\2021.0.0\\tekla.structures.2021.0.0.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\tekla.structures.catalogs\\2021.0.0\\tekla.structures.catalogs.2021.0.0.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\tekla.structures.datatype\\2021.0.0\\tekla.structures.datatype.2021.0.0.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\tekla.structures.dialog\\2021.0.0\\tekla.structures.dialog.2021.0.0.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\tekla.structures.drawing\\2021.0.0\\tekla.structures.drawing.2021.0.0.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\tekla.structures.model\\2021.0.0\\tekla.structures.model.2021.0.0.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\tekla.structures.plugins\\2021.0.0\\tekla.structures.plugins.2021.0.0.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\tekla.technology.msglib\\2.1.18312\\tekla.technology.msglib.2.1.18312.nupkg.sha512",
+    "C:\\Users\\Admin.OMS10093\\.nuget\\packages\\tekla.technology.rkit\\2.1.4.17310\\tekla.technology.rkit.2.1.4.17310.nupkg.sha512"
+  ],
+  "logs": []
+}
